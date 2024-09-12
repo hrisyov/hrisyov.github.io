@@ -7,7 +7,7 @@ body {
 body > header> h1 {
     margin: 0px;
     padding: 8px;
-    margin-left: 100px;
+    align-items: center;
 }
 
 ul {
@@ -28,10 +28,7 @@ body > header > nav > ul {
     display: flex;
 }
 
-body > header > nav > ul > li {
-    padding: 8px;
-    margin: 16px;
-}
+
 
 body > main article {
     width: 73%;
