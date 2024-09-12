@@ -32,7 +32,7 @@ body > header > nav > ul {
 
 body > main article {
     width: 75%;
-    margin: auto;
+    margin-left: 13.5vw;
 }
 
 #main-content {
@@ -93,11 +93,13 @@ body > footer {
 #footer-ul {
     display: flex;
     list-style: none;
-
+    font-size: 1.2vw;
+    margin-bottom: 0.15vw;
 }
 
 #footer-ul > div > li {
     margin-left: 13.5vw;
+    margin-bottom: 0.1vw;
 }
 #footer-ul > div > li > a {
     text-decoration: none;
