@@ -62,7 +62,7 @@ h1 {
     position: fixed; /* Fixed position on the left side */
     top: 0;
     left: 0;
-    width: 200px; /* Width of the sidebar */
+    width: 16vw; /* Width of the sidebar */
     height: 100%; /* Full height */
     background-color: #3b3838; 
     padding-top: 20px; 
