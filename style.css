@@ -79,8 +79,8 @@ h1 {
 }
 
 
-.sidebar a:hover {
-    background-color: #575757; /* Darker background on hover */
+h2 {
+    font-size: 2vw;
 }
 
 
