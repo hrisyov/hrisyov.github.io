@@ -1,17 +1,17 @@
 body {
     background-color: antiquewhite;
     font-family: Helvetica, Arial, sans-serif;
-    margin: 0px;
+    margin: 0vw;
 }
 
 body > header> h1 {
-    margin: 0px;
-    padding: 8px;
+    margin: 0vw;
+    padding: 0.8vw;
     align-items: center;
 }
 
 ul {
-    margin: 0px;
+    margin: 0vw;
 }
 
 body > header {
@@ -31,7 +31,7 @@ body > header > nav > ul {
 
 
 body > main article {
-    width: 73%;
+    width: 75%;
     margin: auto;
 }
 
