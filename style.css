@@ -113,3 +113,18 @@ body > footer {
     color: black;
     padding: 10px;
 }
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%; /* Make the sidebar full width */
+        height: auto; /* Adjust height */
+        position: relative; /* Change position to relative */
+        flex-direction: row; /* Stack links horizontally */
+        justify-content: space-around; /* Space links evenly */
+    }
+
+    .content {
+        margin-left: 0; /* Remove left margin for content */
+        padding-top: 60px; /* Adjust padding for content */
+    }
+}
