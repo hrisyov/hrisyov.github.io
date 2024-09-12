@@ -63,8 +63,7 @@ h1 {
     height: 100%; /* Full height */
     background-color: #3b3838; 
     padding-top: 2vw; 
-    display: flex;
-    flex-direction: column; 
+
 }
 
 .sidebar a {
