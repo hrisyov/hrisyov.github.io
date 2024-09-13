@@ -67,7 +67,7 @@ h1 {
 }
 
 .sidebar a {
-    padding: 0.9vw 0.9vw; /* Padding for links */
+    padding: 0.8vw 0.2vw; /* Padding for links */
     text-decoration: none; /* Remove underline */
     font-size: 1.5vw; /* Font size for links */
     color: white; /* White text color */
@@ -87,6 +87,7 @@ h2 {
 body > footer {
     background-color: rgba(169, 169, 169, 0.856);
     display: flex;
+    padding-top: 1vw;
 }
 
 #footer-ul {
